@@ -5,8 +5,8 @@ import pandas as pd
 from random import choice
 import datetime as dt
 
-my_email = "its.already.2024@gmail.com"
-password = "bywz ajkg nrpu dmkl"
+my_email = "XXXXXXXXXXXXX"
+password = "XXXXXXXXXXXXX"
 
 
 birthdays = pd.read_csv("birthdays.csv")
