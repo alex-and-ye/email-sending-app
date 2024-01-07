@@ -2,8 +2,8 @@ import smtplib
 from random import choice
 import datetime as dt
 
-my_email = "its.already.2024@gmail.com"
-password = "bywz ajkg nrpu dmkl"
+my_email = "XXXXXXXXXXXXXXXXX"
+password = "XXXXXXXXXXXXXXXXX"
 
 send_count = 0
 
