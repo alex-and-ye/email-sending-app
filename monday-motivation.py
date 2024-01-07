@@ -25,6 +25,6 @@ while True:
             with smtplib.SMTP("smtp.gmail.com") as connection:
                 connection.starttls()
                 connection.login(user=my_email, password=password)
-                connection.sendmail(from_addr=my_email, to_addrs="alex.yermakov20@gmail.com", msg=message)
+                connection.sendmail(from_addr=my_email, to_addrs="XXXXXXXXXXXXXX", msg=message)
     else:
         send_count = 0
